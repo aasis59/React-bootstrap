@@ -6,7 +6,7 @@ function App() {
       <nav className="navbar navbar-expand-lg  bg-body-tertiary ">
         <div className="container-fluid ">
           <a className="navbar-brand" href="#">
-            Navbar
+            Car
           </a>
           <button
             className="navbar-toggler"
@@ -97,41 +97,41 @@ function App() {
           </div>
         </div>
 
-        <div className="row">
-          <div className="col"> 
-          <div class="card" >
-  <img src="..." class="card-img-top" alt="..."/>
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
- 
+        <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-3">
+          <div className="col">
+            <div class="card h-100  border-success" >
+              <img src="https://w0.peakpx.com/wallpaper/324/853/HD-wallpaper-dodge-challenger-blue-blue-car-car-charger-sport-sport-car-sports-car-thumbnail.jpg" class="card-img-top  h-100 " alt="..." />
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+
           </div>
-          <div className="col"> 
-          <div class="card" >
-  <img src="..." class="card-img-top" alt="..."/>
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
- 
+          <div className="col">
+            <div class="card h-100 border-success " >
+              <img src="https://w0.peakpx.com/wallpaper/503/803/HD-wallpaper-sports-car-car-black-street-thumbnail.jpg" class="card-img-top h-100" alt="..." />
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+
           </div>
-          <div className="col"> 
-          <div class="card" >
-  <img src="..." class="card-img-top" alt="..."/>
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
- 
+          <div className="col">
+            <div class="card h-100 border-success " >
+              <img src="https://w0.peakpx.com/wallpaper/310/1013/HD-wallpaper-mustang-car-cars-thumbnail.jpg" class="card-img-top h-100" alt="..." />
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+
           </div>
-          
+
 
 
 
